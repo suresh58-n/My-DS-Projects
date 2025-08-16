@@ -1,2 +1,2 @@
-# My-DS-Projects
-ai chat bot
+# AI Chatbot  
+A simple ChatGPT-like bot using Python and OpenAI API.  
